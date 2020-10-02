@@ -7,5 +7,7 @@ namespace asp_net
 {
     public class EnvironmentConstant
     {
+        public string Name { get; set; } = "Mike";
+        public string Surname { get; set; } = "Vasovsky";
     }
 }
