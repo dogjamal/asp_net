@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text.Json;
 
-namespace asp_net
+namespace asp_net.serializing
 {
     public class EnvironmentConstantWriter
     {

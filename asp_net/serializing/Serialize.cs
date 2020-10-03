@@ -15,7 +15,7 @@ using asp_net.tests;
 
 
 
-namespace asp_net
+namespace asp_net.serializing
 {
     public class Serialize : BaseTest
     {
